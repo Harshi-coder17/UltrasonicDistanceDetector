@@ -26,7 +26,7 @@ An Arduino-based object detection system using an ultrasonic sensor (HC-SR04), b
 ---
 
 ## 📂 Files
-- `UltrasonicDistanceDetector.ino` – complete Arduino code
+- [UltrasonicDistanceDetector.ino](./UltrasonicDistanceDetector.ino) – complete Arduino code
 
 ---
 
