@@ -31,7 +31,17 @@ An Arduino-based object detection system using an ultrasonic sensor (HC-SR04), b
 ---
 
 ## 📷 Real Hardware Implementation
-This project was built using real components, not just simulated.
+
+Here are some photos of the actual ultrasonic distance detection project built using Arduino components:
+
+### 🔹 Full Setup
+![Project Setup](Project_Setup.jpeg)
+
+### 🔹 Key Components Used
+![Components](Components.jpeg)
+
+### 🔹 Code Upload & Testing in Progress
+![Code Uploading](Code_Uploading.jpeg)
 
 ---
 
